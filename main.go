@@ -7,5 +7,5 @@ import "fmt"
 func main() {
 	fmt.Println("Hello world")
 
-	fmt.Println("Update version")
+	fmt.Println("Update version ...")
 }
