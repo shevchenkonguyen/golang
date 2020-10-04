@@ -17,4 +17,5 @@ func main() {
 
 	fmt.Println("Hot fix version 2")
 
+	fmt.Println("Hot fix version 4")
 }
