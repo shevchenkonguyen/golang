@@ -14,4 +14,7 @@ func main() {
 	fmt.Println("Craete develop branch")
 
 	fmt.Println("Hot fix version 3")
+
+	fmt.Println("Hot fix version 2")
+
 }
